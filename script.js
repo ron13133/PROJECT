@@ -1,6 +1,6 @@
 function js(){
     let img=document.querySelector("img");
-    img.src="js.png"
+    img.src="JavaScript-logo.png"
     let button1=document.querySelector(".text1")
     button1.value='js'
     let p=document.querySelector("p")
@@ -10,7 +10,7 @@ let button1=document.querySelector(".text1")
 button1.addEventListener('click',js)
 function python(){
     let img=document.querySelector("img");
-    img.src="Python.png"
+    img.src="python.png"
     let button2=document.querySelector(".text2")
     button2.value='python'
     let p=document.querySelector("p")
